@@ -1,5 +1,6 @@
 # sales-data-analysis-dashboard
 Sales data analysis using Python with visual insights
+
 📌 Overview
 This project analyzes a sales dataset to extract meaningful business insights using Python.
 The analysis focuses on sales trends, regional performance, and product category insights through visualizations.
